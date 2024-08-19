@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    // border: 0.1px solid red;
+}
+body{
+    font-family: "Raleway";
+    background: #98C0FF;
+    
+}
+a{
+    text-decoration: none;
+}
+ul{
+    list-style: none;
+}
+.container{
+    max-width: 1350px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+button{
+    border: none;
+    cursor: pointer;
+}
+input{
+    border: none;
+    outline: none;
+}
